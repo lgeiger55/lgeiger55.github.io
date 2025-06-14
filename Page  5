@@ -39,8 +39,8 @@
 
   <script>
     document.getElementById("date").innerHTML =
-      "Last Modified: " + document.lastModified;
-  </script></center>
+      "Date Modified: " + = document.lastModified
+  </script> </center>
 
 </body>
 <body style="background-color: lightgrey;">
