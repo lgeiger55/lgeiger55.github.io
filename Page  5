@@ -5,12 +5,12 @@
 </head>
 <body>
 
-<img src="tekton.png.jpeg" width="150" height="150" style="display: block; margin: 0 auto;">
+<img src="https://assets.onecompiler.app/43msdyjfa/43msqgwbc/tekton.png.jpeg" width="150" height="150" style="display: block; margin: 0 auto;">
 
 <center> <h1 "> Customer Testimonials </h1> </center> 
 
 
-<center><p style="font-family: times new roman; font-size: 20px;">At <b>Tekton</b>, we believe that customer service is the most important aspect of any successful business. We like to prioritize communication, reliability, and client satisfaction to ensure lasting relationships with our clients by delivering high quality results that meet each client's unique vision.</p></center>
+<center><p style="font-family: times new roman; font-size: 20px;">At <b>Tekton</b>, we believe that customer service is the most important aspect of any successful business. We like to prioritize communication, reliability, and client satisfaction to secure good relationships with our clients by deliveringquality results that meet each client's unique vision.</p></center>
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
@@ -38,22 +38,23 @@
 </p>
 </div>
 </div>
-
+<center>
 <h3>Downloads</h3>
 <p>
+Here is a case study on the Ethics we follow as a company <a href= https://pdf-download84848484.tiiny.site>link<a/>
 </p>
 
 <h3>About our team</h3>
 <p>
 To learn more about our team click <a href=https://tektonconstructioncorp.com/our-company/> here</a>
 </p>
-
+<br>
 <p>
 If you have any questions or concerns, contact us <a href="mailto: geiger32@purdue.edu">
 here</a>  
 </p>
-
-
+</center>
+<br>
 <center><script> document.write("Page Last Modified: " + document.lastModified);</script></center>
  
 
