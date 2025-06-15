@@ -7,24 +7,27 @@
 
 <img src="tekton.png.jpeg" width="150" height="150" style="display: block; margin: 0 auto;">
 
-<center> <h1> Customer Testimonials </h1> </center> 
+<center> <h1 "> Customer Testimonials </h1> </center> 
 
 
-<center><p>At Tekton, we believe that customer service is the most important aspect of any successful business. We like to prioritize communication, reliability, and client satisfaction to ensure lasting relationships with our clients by delivering high quality results that meet each client's unique vision.</p></center>
+<center><p style="font-family: times new roman; font-size: 20px;">At <b>Tekton</b>, we believe that customer service is the most important aspect of any successful business. We like to prioritize communication, reliability, and client satisfaction to ensure lasting relationships with our clients by delivering high quality results that meet each client's unique vision.</p></center>
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
  <h2 style="color:#Ffa500">Client Reviews</h2>
+<p p style="font-family: courier new; font-size: 13px;">
   <ul>
-    <li><i>"Tekton helped build us our <u>dream home</u> and they did it cheap!"</i></li>
-    <li><i>"You can tell Tekton really cares about their customers,they provide <u>quality service</u> and listen to all our concerns"</i></li>
-    <li><i>"Tekton puts <u>safety first</u>, both with their workers and our home, no corners were cut"</i></li>
-    <li><i>"I would recommend Tekton to anyone who is looking to commission any building project as they provide <u>unmatched quality</u>"</i></li>
+    <li><i>"<b>Tekton</b> helped build us our <u>dream home</u> and they did it cheap!"</i></li>
+    <li><i>"You can tell <b>Tekton</b> really cares about their customers,they provide <u>quality service</u> and listen to all our concerns"</i></li>
+    <li><i>"<b>Tekton</b> puts <u>safety first</u>, both with their workers and our home, no corners were cut"</i></li>
+    <li><i>"I would recommend <b>Tekton</b> to anyone who is looking to commission any building project as they provide <u>unmatched quality</u>"</i></li>
     <li><i>"<u>Better communication</u> than any construction I have worked with, highly recommended"</i></li>
   </ul>
+</p>
 </div>
 <div style="flex: 0.5; padding: 10px;">
 <h2 style="color:#Ffa500">5 reasons why customers love Tekton</h2>
+<p p style="font-family: courier new; font-size: 13px;">
   <ol>
     <li>#1 rated customer service in the state</li>
     <li>Near immediate project start time</li>
@@ -32,9 +35,9 @@
     <li>Accurate estimates</li>
     <li>Experienced in many types of construction</li>
   </ol>
+</p>
 </div>
 </div>
-
 
 <center><script> document.write("Page Last Modified: " + document.lastModified);</script></center>
  
